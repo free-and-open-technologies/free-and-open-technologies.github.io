@@ -1,5 +1,16 @@
 Page under construction...
 
+## Lecture outline
+
+* FLOSS (Free/libre and open-source software)
+* Open Hardware
+* Open Data
+* Open Content/Open Educational Resources
+* Open Science/Research
+* Open Access
+* Open Spaces/Open Practices
+* Guest Lecture
+
 ## Timeline
 
 * October xx, 2019: Lecture - Introductory lecture & FLOSS
@@ -18,3 +29,7 @@ Page under construction...
 * January xx, 2020: Project - Final presentations and demos
 * January xx, 2020: Project - Paper presentations
 * February 9, 2020: Paper - **Deadline** for paper submission (no exceptions!)
+
+## Contact
+
+<a href="mailto:christoph.derndorfer@tuwien.ac.at">Christoph Derndorfer</a> and <a href="mailto:lukas.f.lang@tuwien.ac.at">Lukas Lang</a>
