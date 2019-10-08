@@ -38,6 +38,13 @@ For details see [TISS](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswi
 
 * [Open-source light tomography demo kit](https://free-and-open-technologies.github.io/projects/project 1 - light tomography.pdf)
 * [Low-cost open-source microscopy](https://free-and-open-technologies.github.io/projects/project 2 - low-cost microscopy.pdf)
+* [Open-source acoustics-based computer interface](https://free-and-open-technologies.github.io/projects/project 3 - acoustics-based computer interface.pdf)
+* [Open-source stereoscopic camera](https://free-and-open-technologies.github.io/projects/project 4 - stereoscopic camera.pdf)
+* [Analyze contributors and funders of FLOSS projects](https://free-and-open-technologies.github.io/projects/project 5 - contributors and funders of FLOSS.pdf)
+* [Building a HAT (Hardware Attached on Top)](https://free-and-open-technologies.github.io/projects/project 6 - hardware attached on top.pdf)
+* [Organizing a Wikithon](https://free-and-open-technologies.github.io/projects/project 7 - organizing a Wikithon.pdf)
+* [Comparison of open data sources of cities](https://free-and-open-technologies.github.io/projects/project 8 - comparison of open data sources of cities.pdf)
+* [Develop a new application based on open data](https://free-and-open-technologies.github.io/projects/project 9 - application based on open data.pdf)
 
 ## Contact
 
