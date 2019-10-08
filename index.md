@@ -49,3 +49,7 @@ For details see [TISS](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswi
 ## Contact
 
 <a href="mailto:christoph.derndorfer@tuwien.ac.at">Christoph Derndorfer</a> and <a href="mailto:lukas.f.lang@tuwien.ac.at">Lukas Lang</a>
+
+## History
+
+* October 8, Added project ideas.
