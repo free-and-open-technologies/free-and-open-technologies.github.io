@@ -1,4 +1,8 @@
-Page under construction...
+## Course description
+
+Today, free and open technologies are ubiquitous. The aim of this course is to acquire a fundamental understanding of their scope, impact, and importance in various settings, such as science, industry, and education. Students should be able to apply these principles in different contexts and projects.
+
+For details see [TISS](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1940&dsrid=754&semester=2019W&courseNr=193067).
 
 ## Lecture outline
 
@@ -29,6 +33,11 @@ Page under construction...
 * January xx, 2020: Project - Final presentations and demos
 * January xx, 2020: Project - Paper presentations
 * February 9, 2020: Paper - **Deadline** for paper submission (no exceptions!)
+
+## Project ideas
+
+* [Open-source light tomography demo kit](https://free-and-open-technologies.github.io/projects/project 1 - light tomography.pdf)
+* [Low-cost open-source microscopy](https://free-and-open-technologies.github.io/projects/project 2 - low-cost microscopy.pdf)
 
 ## Contact
 
