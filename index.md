@@ -2,7 +2,7 @@
 
 Today, free and open technologies are ubiquitous. The aim of this course is to acquire a fundamental understanding of their scope, impact, and importance in various settings, such as science, industry, and education. Students should be able to apply these principles in different contexts and projects.
 
-For details see [TISS](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1940&dsrid=754&semester=2019W&courseNr=193067).
+For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswid=1940&dsrid=754&semester=2019W&courseNr=193067).
 
 ## Lecture outline
 
@@ -17,7 +17,7 @@ For details see [TISS](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswi
 
 ## Timeline
 
-* October 8, 2019: Lecture - Introductory lecture & FLOSS
+* October 8, 2019: Lecture - [Introductory lecture & FLOSS](https://free-and-open-technologies.github.io/slides/lecture 1 - introductory lecture and FLOSS.pdf)
 * October 15, 2019: Lecture - Open Hardware
 * October 22, 2019: Lecture - Open Data
 * October 25, 2019: Project - **Deadline** for group forming & topic selection (via e-mail)
@@ -36,20 +36,21 @@ For details see [TISS](https://tiss.tuwien.ac.at/course/courseDetails.xhtml?dswi
 
 ## Project ideas
 
-* [Open-source light tomography demo kit](https://free-and-open-technologies.github.io/projects/project 1 - light tomography.pdf)
-* [Low-cost open-source microscopy](https://free-and-open-technologies.github.io/projects/project 2 - low-cost microscopy.pdf)
-* [Open-source acoustics-based computer interface](https://free-and-open-technologies.github.io/projects/project 3 - acoustics-based computer interface.pdf)
-* [Open-source stereoscopic camera](https://free-and-open-technologies.github.io/projects/project 4 - stereoscopic camera.pdf)
-* [Analyze contributors and funders of FLOSS projects](https://free-and-open-technologies.github.io/projects/project 5 - contributors and funders of FLOSS.pdf)
-* [Building a HAT (Hardware Attached on Top)](https://free-and-open-technologies.github.io/projects/project 6 - hardware attached on top.pdf)
-* [Organizing a Wikithon](https://free-and-open-technologies.github.io/projects/project 7 - organizing a Wikithon.pdf)
-* [Comparison of open data sources of cities](https://free-and-open-technologies.github.io/projects/project 8 - comparison of open data sources of cities.pdf)
-* [Develop a new application based on open data](https://free-and-open-technologies.github.io/projects/project 9 - application based on open data.pdf)
+* Project 1: [Open-source light tomography demo kit](https://free-and-open-technologies.github.io/projects/project 1 - light tomography.pdf)
+* Project 2: [Low-cost open-source microscopy](https://free-and-open-technologies.github.io/projects/project 2 - low-cost microscopy.pdf)
+* Project 3: [Open-source acoustics-based computer interface](https://free-and-open-technologies.github.io/projects/project 3 - acoustics-based computer interface.pdf)
+* Project 4: [Open-source stereoscopic camera](https://free-and-open-technologies.github.io/projects/project 4 - stereoscopic camera.pdf)
+* Project 5: [Analyze contributors and funders of FLOSS projects](https://free-and-open-technologies.github.io/projects/project 5 - contributors and funders of FLOSS.pdf)
+* Project 6: [Building a HAT (Hardware Attached on Top)](https://free-and-open-technologies.github.io/projects/project 6 - hardware attached on top.pdf)
+* Project 7: [Organizing a Wikithon](https://free-and-open-technologies.github.io/projects/project 7 - organizing a Wikithon.pdf)
+* Project 8: [Comparison of open data sources of cities](https://free-and-open-technologies.github.io/projects/project 8 - comparison of open data sources of cities.pdf)
+* Project 9: [Develop a new application based on open data](https://free-and-open-technologies.github.io/projects/project 9 - application based on open data.pdf)
 
 ## Contact
 
-<a href="mailto:christoph.derndorfer@tuwien.ac.at">Christoph Derndorfer</a> and <a href="mailto:lukas.f.lang@tuwien.ac.at">Lukas Lang</a>
+<a href="mailto:christoph.derndorfer@tuwien.ac.at">Christoph Derndorfer</a> and <a href="mailto:lukas.f.lang@tuwien.ac.at">Lukas F. Lang</a>
 
 ## History
 
-* October 8, Added project ideas.
+* October 9, 2019: Added slides.
+* October 8, 2019: Added project ideas.
