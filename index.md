@@ -17,7 +17,7 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 
 ## Timeline
 
-* October 8, 2019: Lecture - [Introductory lecture & FLOSS](https://free-and-open-technologies.github.io/slides/lecture 1 - introductory lecture and FLOSS.pdf)
+* October 8, 2019: Lecture - [Introductory lecture & FLOSS](slides/lecture 1 - introductory lecture and FLOSS.pdf)
 * October 15, 2019: Lecture - Open Hardware
 * October 22, 2019: Lecture - Open Data
 * October 25, 2019: Project - **Deadline** for group forming & topic selection (via e-mail)
@@ -36,15 +36,17 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 
 ## Project ideas
 
-* Project 1: [Open-source light tomography demo kit](https://free-and-open-technologies.github.io/projects/project 1 - light tomography.pdf)
-* Project 2: [Low-cost open-source microscopy](https://free-and-open-technologies.github.io/projects/project 2 - low-cost microscopy.pdf)
-* Project 3: [Open-source acoustics-based computer interface](https://free-and-open-technologies.github.io/projects/project 3 - acoustics-based computer interface.pdf)
-* Project 4: [Open-source stereoscopic camera](https://free-and-open-technologies.github.io/projects/project 4 - stereoscopic camera.pdf)
-* Project 5: [Analyze contributors and funders of FLOSS projects](https://free-and-open-technologies.github.io/projects/project 5 - contributors and funders of FLOSS.pdf)
-* Project 6: [Building a HAT (Hardware Attached on Top)](https://free-and-open-technologies.github.io/projects/project 6 - hardware attached on top.pdf)
-* Project 7: [Organizing a Wikithon](https://free-and-open-technologies.github.io/projects/project 7 - organizing a Wikithon.pdf)
-* Project 8: [Comparison of open data sources of cities](https://free-and-open-technologies.github.io/projects/project 8 - comparison of open data sources of cities.pdf)
-* Project 9: [Develop a new application based on open data](https://free-and-open-technologies.github.io/projects/project 9 - application based on open data.pdf)
+* Project 1: [Open-source light tomography demo kit](projects/project 1 - light tomography.pdf)
+* Project 2: [Low-cost open-source microscopy](projects/project 2 - low-cost microscopy.pdf)
+* Project 3: [Open-source acoustics-based computer interface](projects/project 3 - acoustics-based computer interface.pdf)
+* Project 4: [Open-source stereoscopic camera](projects/project 4 - stereoscopic camera.pdf)
+* Project 5: [Analyze contributors and funders of FLOSS projects](projects/project 5 - contributors and funders of FLOSS.pdf)
+* Project 6: [Building a HAT (Hardware Attached on Top)](projects/project 6 - hardware attached on top.pdf)
+* Project 7: [Organizing a Wikithon](projects/project 7 - organizing a Wikithon.pdf)
+* Project 8: [Comparison of open data sources of cities](projects/project 8 - comparison of open data sources of cities.pdf)
+* Project 9: [Develop a new application based on open data](projects/project 9 - application based on open data.pdf)
+
+[Template](projects/project - template.odt) for project proposals.
 
 ## Contact
 
