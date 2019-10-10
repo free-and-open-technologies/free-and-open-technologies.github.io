@@ -50,7 +50,7 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 
 ## Paper topics
 
-We provide a [LaTeX template](papers/seminar paper latex template.zip?raw=true) for the seminar papers.
+We provide a [LaTeX template](papers/seminar paper latex template.zip) for the seminar papers.
 
 ## Contact
 
