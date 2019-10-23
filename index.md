@@ -17,8 +17,8 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 
 ## Timeline
 
-* October 8, 2019: Lecture - [Introductory lecture & FLOSS](slides/lecture 1 - introductory lecture and FLOSS.pdf)
-* October 15, 2019: Lecture - [Open Hardware](slides/lecture 2 - open hardware.pdf)
+* October 8, 2019: Lecture - [Introductory lecture & FLOSS](slides/lecture1-introductory_lecture_and_FLOSS.pdf)
+* October 15, 2019: Lecture - [Open Hardware](slides/lecture2-open_hardware.pdf)
 * October 22, 2019: Lecture - [Open Data](slides/lecture3-open_data.pdf)
 * October 25, 2019: Project - **Deadline** for group forming & topic selection (via e-mail)
 * October 29, 2019: Lecture - Open Content/Open Educational Resources
