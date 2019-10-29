@@ -21,7 +21,7 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 * October 15, 2019: Lecture - [Open Hardware](slides/lecture2-open_hardware.pdf)
 * October 22, 2019: Lecture - [Open Data](slides/lecture3-open_data.pdf)
 * October 25, 2019: Project - **Deadline** for group forming & topic selection (via e-mail)
-* October 29, 2019: Lecture - Open Content/Open Educational Resources
+* October 29, 2019: Lecture - [Open Content/Open Educational Resources](slides/lecture4-open_content_and_OER.pdf)
 * November 5, 2019: Lecture - Open Science/Research
 * November 8, 2019: Project - Group meeting: discuss project idea
 * November 12, 2019: Lecture - Open Access
