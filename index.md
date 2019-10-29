@@ -58,6 +58,7 @@ We provide a [LaTeX template](papers/seminar paper latex template.zip) for the s
 
 ## History
 
+* October 29, 2019: Added slides for lecture no. 4.
 * October 22, 2019: Added slides.
 * October 14, 2019: Added dates for group meetings and presentations.
 * October 9, 2019: Added slides.
