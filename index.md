@@ -22,9 +22,9 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 * October 22, 2019: Lecture - [Open Data](slides/lecture3-open_data.pdf)
 * October 25, 2019: Project - **Deadline** for group forming & topic selection (via e-mail)
 * October 29, 2019: Lecture - [Open Content/Open Educational Resources](slides/lecture4-open_content_and_OER.pdf)
-* November 5, 2019: Lecture - Open Science/Research
+* November 5, 2019: Lecture - [Open Access](slides/lecture5-open_access.pdf)
 * November 8, 2019: Project - Group meeting: discuss project idea
-* November 12, 2019: Lecture - Open Access
+* November 12, 2019: Lecture - Open Science/Research
 * November 19, 2019: Lecture - Open Spaces/Open Practices
 * November 26, 2019: Lecture - Guest Lecture
 * November 29, 2019: Project - Group meeting: progress review + feedback
@@ -58,6 +58,7 @@ We provide a [LaTeX template](papers/seminar paper latex template.zip) for the s
 
 ## History
 
+* November 5, 2019: Added slides for lecture no. 5.
 * October 29, 2019: Added slides for lecture no. 4.
 * October 22, 2019: Added slides.
 * October 14, 2019: Added dates for group meetings and presentations.
