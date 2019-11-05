@@ -46,11 +46,11 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 * Project 8: [Comparison of open data sources of cities](projects/project8-comparison_of_open_data_sources_of_cities.pdf)
 * Project 9: [Develop a new application based on open data](projects/project9-application_based_on_open_data.pdf)
 
-[Template](projects/project - template.odt) for project proposals.
+[Template](projects/project-template.odt) for project proposals.
 
 ## Paper topics
 
-We provide a [LaTeX template](papers/seminar paper latex template.zip) for the seminar papers.
+We provide a [LaTeX template](papers/seminar_paper_latex_template.zip) for the seminar papers.
 
 ## Contact
 
