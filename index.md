@@ -36,15 +36,15 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 
 ## Project ideas
 
-* Project 1: [Open-source light tomography demo kit](projects/project 1 - light tomography.pdf)
-* Project 2: [Low-cost open-source microscopy](projects/project 2 - low-cost microscopy.pdf)
-* Project 3: [Open-source acoustics-based computer interface](projects/project 3 - acoustics-based computer interface.pdf)
-* Project 4: [Open-source stereoscopic camera](projects/project 4 - stereoscopic camera.pdf)
-* Project 5: [Analyze contributors and funders of FLOSS projects](projects/project 5 - contributors and funders of FLOSS.pdf)
-* Project 6: [Building a HAT (Hardware Attached on Top)](projects/project 6 - hardware attached on top.pdf)
-* Project 7: [Organizing a Wikithon](projects/project 7 - organizing a Wikithon.pdf)
-* Project 8: [Comparison of open data sources of cities](projects/project 8 - comparison of open data sources of cities.pdf)
-* Project 9: [Develop a new application based on open data](projects/project 9 - application based on open data.pdf)
+* Project 1: [Open-source light tomography demo kit](projects/project1-light_tomography.pdf)
+* Project 2: [Low-cost open-source microscopy](projects/project2-low-cost_microscopy.pdf)
+* Project 3: [Open-source acoustics-based computer interface](projects/project3-acoustics-based_computer_interface.pdf)
+* Project 4: [Open-source stereoscopic camera](projects/project4-stereoscopic_camera.pdf)
+* Project 5: [Analyze contributors and funders of FLOSS projects](projects/project5-contributors_and_funders_of_FLOSS.pdf)
+* Project 6: [Building a HAT (Hardware Attached on Top)](projects/project6-hardware_attached_on_top.pdf)
+* Project 7: [Organizing a Wikithon](projects/project7-organizing_a_Wikithon.pdf)
+* Project 8: [Comparison of open data sources of cities](projects/project8-comparison_of_open_data_sources_of_cities.pdf)
+* Project 9: [Develop a new application based on open data](projects/project9-application_based_on_open_data.pdf)
 
 [Template](projects/project - template.odt) for project proposals.
 
