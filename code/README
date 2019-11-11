@@ -1,0 +1,22 @@
+Uses Anaconda + Jupyter Notebook.
+
+To recreate the environment execute
+
+>> conda env create -f environment.yml
+
+To activate it type
+
+>> conda activate fot
+
+To start the Jupyter Notebook run
+
+>> jupyter notebook
+
+Alternatively, to recreate the environment from scratch type
+
+>> conda create -n fot python
+>> source activate fot
+>> conda install numpy
+>> conda install scipy
+>> conda install -c conda-forge jupyterlab
+>> conda install matplotlib
