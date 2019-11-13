@@ -24,7 +24,7 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 * October 29, 2019: Lecture - [Open Content/Open Educational Resources](slides/lecture4-open_content_and_OER.pdf)
 * November 5, 2019: Lecture - [Open Access](slides/lecture5-open_access.pdf)
 * November 8, 2019: Project - Group meeting: discuss project idea
-* November 12, 2019: Lecture - Open Science/Research
+* November 12, 2019: Lecture - [Open Science/Research](slides/lecture6-open_science.pdf) [[code](https://github.com/free-and-open-technologies/free-and-open-technologies.github.io/blob/master/code/study_malachite.ipynb)]
 * November 19, 2019: Lecture - Open Spaces/Open Practices
 * November 26, 2019: Lecture - Guest Lecture
 * November 29, 2019: Project - Group meeting: progress review + feedback
@@ -58,6 +58,7 @@ We provide a [LaTeX template](papers/seminar_paper_latex_template.zip) for the s
 
 ## History
 
+* November 13, 2019: Added slides for lecture no. 6.
 * November 5, 2019: Added slides for lecture no. 5.
 * October 29, 2019: Added slides for lecture no. 4.
 * October 22, 2019: Added slides.
