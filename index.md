@@ -25,8 +25,8 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 * November 5, 2019: Lecture - [Open Access](slides/lecture5-open_access.pdf)
 * November 8, 2019: Project - Group meeting: discuss project idea
 * November 12, 2019: Lecture - [Open Science/Research](slides/lecture6-open_science.pdf) [[code](https://github.com/free-and-open-technologies/free-and-open-technologies.github.io/blob/master/code/study_malachite.ipynb)]
-* November 19, 2019: Lecture - Open Spaces/Open Practices by Petar Kosic and Clemens Hopfer at [Metalab](https://www.metalab.at/)
-* November 26, 2019: Lecture - Guest Lecture by Taguhi Torosyan ([Mz* Baltazar's Lab](http://www.mzbaltazarslaboratory.org/))
+* November 19, 2019: Lecture - Excursion: Open Spaces/Open Practices by Petar Kosic and Clemens Hopfer at [Metalab](https://www.metalab.at/)
+* November 26, 2019: Lecture - Guest Lecture by Taguhi Torosyan ([Mz* Baltazar's Lab](http://www.mzbaltazarslaboratory.org/)) + [Summary & Upcoming Tasks](slides/lecture8-summary_upcoming-tasks.pdf)
 * November 29, 2019: Project - Group meeting: progress review + feedback
 * November 29, 2019 Paper - **Deadline** for group forming & topic selection: (via e-mail)
 * January 10, 2020: Project - Group meeting: review + feedback for project finalisation, ideas for presentation/demo
