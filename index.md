@@ -30,7 +30,10 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 * November 29, 2019: Project - Group meeting: progress review + feedback
 * November 29, 2019 Paper - **Deadline** for group forming & topic selection: (via e-mail)
 * January 10, 2020: Project - Group meeting: review + feedback for project finalisation, ideas for presentation/demo
-* January 24, 2020: Project - [Course Feedback & Upcoming Tasks](slides/lecture9-final-project-presentations.pdf) and final project presentations: [Putting Putting Austrian academicians on Wikipedia](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf), [Vienna Visualization](student-projects/Vienna-Visualization_final-presentation.pdf), [Visjo](student-projects/Visjo-final-presentation.pdf)
+* January 24, 2020: Project - [Course Feedback & Upcoming Tasks](slides/lecture9-final-project-presentations.pdf) and final project presentations:
+  * [Putting Austrian academicians on Wikipedia](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf): Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst
+  * [Vienna Visualization](student-projects/Vienna-Visualization_final-presentation.pdf): Sarah Hanna Fischer, Michael König, Lisa Müllner, Florian Ploier
+  * [Visjo](student-projects/Visjo-final-presentation.pdf): Carlos Rodriguez, Daniel Heger, Matthias Reisacher, Onur Gürcay
 * January 31, 2020: Project - Paper presentations
 * February 9, 2020: Paper - **Deadline** for paper submission (no exceptions!)
 
