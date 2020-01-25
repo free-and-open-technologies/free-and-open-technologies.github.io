@@ -61,6 +61,9 @@ We provide a [LaTeX template](papers/seminar_paper_latex_template.zip) for the s
 
 ## History
 
+* January 25, 2020: Added final project presentations.
+* January 24, 2020: Added slides for lecture no. 9.
+* November 26, 2019: Added slides for lecture no. 8.
 * November 13, 2019: Added slides for lecture no. 6.
 * November 5, 2019: Added slides for lecture no. 5.
 * October 29, 2019: Added slides for lecture no. 4.
