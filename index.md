@@ -37,6 +37,16 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 * January 31, 2020: Project - Paper presentations
 * February 9, 2020: Paper - **Deadline** for paper submission (no exceptions!)
 
+## Projects
+
+### Putting Austrian academicians on Wikipedia
+
+Create, edit, and improve content on Wikipedia regarding Austrian academics with special emphasis on notable women.
+
+By Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, and Eva Jobst.
+
+Links: [Project website](https://evajobst.github.io/), [Final presentation](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf)
+
 ## Project ideas
 
 * Project 1: [Open-source light tomography demo kit](projects/project1-light_tomography.pdf)
