@@ -42,7 +42,7 @@ Create, edit, and improve content on Wikipedia regarding Austrian academics with
 
 By Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, and Eva Jobst.
 
-Links: [Project](https://evajobst.github.io/), [Final presentation](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf)
+Links: [Project website](https://evajobst.github.io/), [Final presentation](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf)
 
 ### Vienna Visualization
 
@@ -50,7 +50,7 @@ Visualize open data from the city of Vienna and gain new insights from populatio
 
 By Sarah Hanna Fischer, Michael König, Lisa Müllner, and Florian Ploier.
 
-Links: [GitHub](https://github.com/lisamuellner/FLOSS_ViennaVisualization), [Final presentation](student-projects/Vienna-Visualization_final-presentation.pdf)
+Links: [GitHub repo](https://github.com/lisamuellner/FLOSS_ViennaVisualization), [Final presentation](student-projects/Vienna-Visualization_final-presentation.pdf)
 
 ### Visjo
 
@@ -58,7 +58,7 @@ Create a map-based visualization of geo-tagged pictures.
 
 By Carlos Rodriguez, Daniel Heger, Matthias Reisacher, and Onur Gürcay.
 
-Links: [GitHub](https://github.com/peybl/visjo), [Final presentation](student-projects/Visjo-final-presentation.pdf)
+Links: [GitHub repo](https://github.com/peybl/visjo), [Final presentation](student-projects/Visjo-final-presentation.pdf)
 
 ## Project ideas
 
@@ -84,6 +84,7 @@ We provide a [LaTeX template](papers/seminar_paper_latex_template.zip) for the s
 
 ## History
 
+* January 26, 2020: Added links to repos.
 * January 25, 2020: Added final project presentations.
 * January 24, 2020: Added slides for lecture no. 9.
 * November 26, 2019: Added slides for lecture no. 8.
