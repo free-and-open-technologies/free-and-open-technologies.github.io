@@ -30,30 +30,35 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 * November 29, 2019: Project - Group meeting: progress review + feedback
 * November 29, 2019 Paper - **Deadline** for group forming & topic selection: (via e-mail)
 * January 10, 2020: Project - Group meeting: review + feedback for project finalisation, ideas for presentation/demo
-* January 24, 2020: Project - [Course Feedback & Upcoming Tasks](slides/lecture9-final-project-presentations.pdf) and final project presentations:
-  * [Putting Austrian academicians on Wikipedia](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf): Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, Eva Jobst
-  * [Vienna Visualization](student-projects/Vienna-Visualization_final-presentation.pdf): Sarah Hanna Fischer, Michael König, Lisa Müllner, Florian Ploier
-  * [Visjo](student-projects/Visjo-final-presentation.pdf): Carlos Rodriguez, Daniel Heger, Matthias Reisacher, Onur Gürcay
+* January 24, 2020: Project - [Course Feedback & Upcoming Tasks](slides/lecture9-final-project-presentations.pdf) and final project presentations
 * January 31, 2020: Project - Paper presentations
 * February 9, 2020: Paper - **Deadline** for paper submission (no exceptions!)
 
 ## Projects
 
-1. Putting Austrian academics on Wikipedia
+### Putting Austrian academics on Wikipedia
 
 Create, edit, and improve content on Wikipedia regarding Austrian academics with special emphasis on notable women.
 
 By Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, and Eva Jobst.
 
-Links: [Project website](https://evajobst.github.io/), [Final presentation](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf)
+Links: [Project](https://evajobst.github.io/), [Final presentation](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf)
 
-2. Vienna Visualization
+### Vienna Visualization
 
 Visualize open data from the city of Vienna and gain new insights from population data.
 
 By Sarah Hanna Fischer, Michael König, Lisa Müllner, and Florian Ploier.
 
-Links: [GitHub repo](https://github.com/lisamuellner/FLOSS_ViennaVisualization), [Final presentation](student-projects/Vienna-Visualization_final-presentation.pdf)
+Links: [GitHub](https://github.com/lisamuellner/FLOSS_ViennaVisualization), [Final presentation](student-projects/Vienna-Visualization_final-presentation.pdf)
+
+### Visjo
+
+Create a map-based visualization of geo-tagged pictures.
+
+By Carlos Rodriguez, Daniel Heger, Matthias Reisacher, and Onur Gürcay.
+
+Links: [GitHub](https://github.com/peybl/visjo), [Final presentation](student-projects/Visjo-final-presentation.pdf)
 
 ## Project ideas
 
