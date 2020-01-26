@@ -34,7 +34,7 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 * January 31, 2020: Project - Paper presentations
 * February 9, 2020: Paper - **Deadline** for paper submission (no exceptions!)
 
-## Projects
+## Student projects
 
 ### Putting Austrian academics on Wikipedia
 
