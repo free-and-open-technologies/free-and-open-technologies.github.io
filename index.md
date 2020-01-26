@@ -39,13 +39,21 @@ For more details see [TISS course page](https://tiss.tuwien.ac.at/course/courseD
 
 ## Projects
 
-### Putting Austrian academicians on Wikipedia
+1. Putting Austrian academics on Wikipedia
 
 Create, edit, and improve content on Wikipedia regarding Austrian academics with special emphasis on notable women.
 
 By Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, and Eva Jobst.
 
 Links: [Project website](https://evajobst.github.io/), [Final presentation](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf)
+
+2. Vienna Visualization
+
+Visualize open data from the city of Vienna and gain new insights from population data.
+
+By Sarah Hanna Fischer, Michael König, Lisa Müllner, and Florian Ploier.
+
+Links: [GitHub repo](https://github.com/lisamuellner/FLOSS_ViennaVisualization), [Final presentation](student-projects/Vienna-Visualization_final-presentation.pdf)
 
 ## Project ideas
 
