@@ -42,7 +42,15 @@ Create, edit, and improve content on Wikipedia regarding Austrian academics with
 
 By Mohammad Zandpour, Vasilena Kisova, Daniela Shopova, and Eva Jobst.
 
-Links: [Project website](https://evajobst.github.io/), [Final presentation](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf)
+Links: [Project website](https://github.com/Snuu101/Smart-Plant-Pot), [Final presentation](student-projects/Austrian-Academicians-Wikipedia_final-presentation.pdf)
+
+### Smart Plant Pot
+
+Conceptualize and build a smart pot that can provide various data about a plant, such as its temperature, humidity, etc., to users with a smartphone app.
+
+By Daniel Metzger, Mark Peneder, Dorin Postolache, and Felix Walcher.
+
+Links: [Project website](https://evajobst.github.io/), [Final presentation](student-projects/SmartPlantPot-final-presentation.pdf)
 
 ### Vienna Visualization
 
@@ -84,6 +92,7 @@ We provide a [LaTeX template](papers/seminar_paper_latex_template.zip) for the s
 
 ## History
 
+* January 31, 2020: Added Smart Plant Pot project info.
 * January 26, 2020: Added links to repos.
 * January 25, 2020: Added final project presentations.
 * January 24, 2020: Added slides for lecture no. 9.
