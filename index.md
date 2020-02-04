@@ -68,6 +68,14 @@ By Carlos Rodriguez, Daniel Heger, Matthias Reisacher, and Onur Gürcay.
 
 Links: [GitHub repo](https://github.com/peybl/visjo), [Final presentation](student-projects/Visjo-final-presentation.pdf)
 
+### Vowikiathon
+
+Create, extend, and improve VoWi (Vorlesungswiki) pages.
+
+By Mariya Popel, Renée Sophie Singer, Lina Wang, and Kristina Weinberger.
+
+[Final presentation](student-projects/Vowikiathon-final-presentation.pdf)
+
 ## Project ideas
 
 * Project 1: [Open-source light tomography demo kit](projects/project1-light_tomography.pdf)
