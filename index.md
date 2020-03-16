@@ -90,7 +90,23 @@ By Mariya Popel, Renée Sophie Singer, Lina Wang, and Kristina Weinberger.
 
 [Template](projects/project-template.odt) for project proposals.
 
-## Paper topics
+## Student papers
+
+* Sarah Hanna Fischer and Lisa Müllner: [Ethical Issues of Open Medical Data](papers/Fischer_and_Müllner_-_Ethical_Issues_of_Open_Medical_Data_(2020).pdf)
+* Daniel Heger, Matthias Reisacher: [Business Models in FLOSS](papers/Heger_and_Reisacher_-_Business_Models_in_FLOSS_(2020).pdf)
+* Eva Jobst: [Gender Gap on GitHub](papers/Fischer_and_Müllner_-_Ethical_Issues_of_Open_Medical_Data_(2020).pdf)
+* Michael König and Florian Ploier: [Shenzhen and its comparison to the Silicon Valley](papers/König_and_Ploier_-_Shenzhen_and_its_comparison_to_the_Silicon_Valley_(2020).pdf)
+* Daniel Metzger and Dorin Postolache: [Impact of Open Data in Selected Developing Countries](papers/Metzger_and_Postolache_-_Impact_of_Open_Data_in_Selected_Developing_Countries_(2020).pdf)
+* Mark Peneder and Felix Walcher: [Open Education Resources: Current Limitations and
+Challenges and its Usage in Developing Countries](papers/Peneder_and_Walcher_-_Open_Education_Resources_Challenges_(2020).pdf)
+* Mariya Popel and Renée Sophie Singer: [FOSS and CC in Design](papers/Popel_and_Singer_-_FOSS_and_CC_in_Design_(2020).pdf)
+* Carlos Rodriguez and Onur Gürcay: [Open-Source Software in Business and its Advantages &
+Disadvantages](papers/Rodriguez_and_Gürcay_-_Open-Source_Software_in_Business_and_its_Advantages_&_Disadvantages_(2020).pdf)
+* Lina Wang and Kristina Weinberger: [Reasons for lack of diversity in open source: The case Katie
+Bouman](papers/Wang_and_Weinberger_-_Reasons_for_lack_of_diversity_of_open_source_(2020).pdf)
+* Mohammad Zandpour: [The Gender Gap on Wikipedia](papers/Zandpour_-_The_Gender_Gap_on_Wikipedia_(2020).pdf)
+
+## Paper template
 
 We provide a [LaTeX template](papers/seminar_paper_latex_template.zip) for the seminar papers.
 
@@ -100,6 +116,7 @@ We provide a [LaTeX template](papers/seminar_paper_latex_template.zip) for the s
 
 ## History
 
+* March 16, 2020: Added student papers.
 * January 31, 2020: Added Smart Plant Pot project info.
 * January 26, 2020: Added links to repos.
 * January 25, 2020: Added final project presentations.
