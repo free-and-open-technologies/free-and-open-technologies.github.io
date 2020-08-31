@@ -112,7 +112,7 @@ We provide a [LaTeX template](papers/seminar_paper_latex_template.zip) for the s
 
 ## Contact
 
-<a href="mailto:christoph.derndorfer@tuwien.ac.at">Christoph Derndorfer</a> and <a href="mailto:lukas.f.lang@tuwien.ac.at">Lukas F. Lang</a>
+<a href="mailto:christoph.derndorfer+tuwien@gmail.com">Christoph Derndorfer</a> and <a href="mailto:lukasflang+tuwien@gmail.com">Lukas F. Lang</a>
 
 ## History
 
