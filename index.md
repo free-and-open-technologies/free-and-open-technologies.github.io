@@ -94,7 +94,7 @@ By Mariya Popel, Renée Sophie Singer, Lina Wang, and Kristina Weinberger.
 
 * Sarah Hanna Fischer and Lisa Müllner: [Ethical Issues of Open Medical Data](papers/Fischer_and_Müllner_-_Ethical_Issues_of_Open_Medical_Data_(2020).pdf)
 * Daniel Heger, Matthias Reisacher: [Business Models in FLOSS](papers/Heger_and_Reisacher_-_Business_Models_in_FLOSS_(2020).pdf)
-* Eva Jobst: [Gender Gap on GitHub](papers/Fischer_and_Müllner_-_Ethical_Issues_of_Open_Medical_Data_(2020).pdf)
+* Eva Jobst: [Gender Gap on GitHub](papers/Jobst_-_Gender_Gap_on_GitHub_(2020).pdf)
 * Michael König and Florian Ploier: [Shenzhen and its comparison to the Silicon Valley](papers/König_and_Ploier_-_Shenzhen_and_its_comparison_to_the_Silicon_Valley_(2020).pdf)
 * Daniel Metzger and Dorin Postolache: [Impact of Open Data in Selected Developing Countries](papers/Metzger_and_Postolache_-_Impact_of_Open_Data_in_Selected_Developing_Countries_(2020).pdf)
 * Mark Peneder and Felix Walcher: [Open Education Resources: Current Limitations and
